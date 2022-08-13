@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Degray84/figma-detoks/compare/v1.0.0...v1.0.1) (2022-08-13)
+
+
+### Bug Fixes
+
+* Add husky ([9b10e11](https://github.com/Degray84/figma-detoks/commit/9b10e11f00bf92aecfb89304aa03b0b2227031fb))
+
 # 1.0.0 (2022-08-13)
 
 
