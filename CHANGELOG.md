@@ -1,0 +1,26 @@
+# 1.0.0 (2022-08-13)
+
+
+### Bug Fixes
+
+* add test ([9b2bb78](https://github.com/Degray84/figma-detoks/commit/9b2bb78afa2c04d6e3eec882083851f332f6711d))
+* Change name of token ([6550419](https://github.com/Degray84/figma-detoks/commit/6550419a02a30b907a291626b37b153551f4c2d7))
+* correct workflow file ([1b40cba](https://github.com/Degray84/figma-detoks/commit/1b40cbadfd89833eaa148c5534e2c1b910277cb2))
+* test ([67abfc5](https://github.com/Degray84/figma-detoks/commit/67abfc5da5552bcb597c190cc96d82ed02d856d9))
+* update workflow ([f0fc462](https://github.com/Degray84/figma-detoks/commit/f0fc4622d7f9c29deb85d6d2ae88e3129375966a))
+* update workflow ([fdf9a1d](https://github.com/Degray84/figma-detoks/commit/fdf9a1d5a371b3fe3b90a8538120c9b09a06a8e8))
+* update workflow ([72f27dd](https://github.com/Degray84/figma-detoks/commit/72f27dda1035066e54955ed762ce431af69c1048))
+* Обновлены токены ([7d49ab9](https://github.com/Degray84/figma-detoks/commit/7d49ab96334e5dbf179cbded252c26d63998ed19))
+
+
+* Merge pull request #1 from Degray84/dev__style_dictionary ([d677a3d](https://github.com/Degray84/figma-detoks/commit/d677a3d7fd3d13549b8ef80e146102c190ac45c0)), closes [#1](https://github.com/Degray84/figma-detoks/issues/1)
+
+
+### Features
+
+* first commit ([e68d874](https://github.com/Degray84/figma-detoks/commit/e68d874d27ab2ba6563d04052dc9a02378de8694))
+
+
+### BREAKING CHANGES
+
+* Add style dictionary
