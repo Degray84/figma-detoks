@@ -29,13 +29,8 @@
     "release": "npx semantic-release"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.0.3",
-    "@commitlint/config-conventional": "^17.0.3",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "husky": "^8.0.1",
-    "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1",
     "semantic-release": "^19.0.3",
     "style-dictionary": "^3.7.1"
   },
