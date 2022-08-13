@@ -25,7 +25,6 @@
     "dist/"
   ],
   "scripts": {
-    "prepare": "husky install",
     "build": "node src",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
