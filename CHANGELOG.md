@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/Degray84/figma-detoks/compare/v1.0.7...v1.0.8) (2022-08-13)
+
+
+### Bug Fixes
+
+* update workflow ([2e9c05a](https://github.com/Degray84/figma-detoks/commit/2e9c05a6c9779eb8bad04e323fcc3fb8522878a9))
+
 ## [1.0.7](https://github.com/Degray84/figma-detoks/compare/v1.0.6...v1.0.7) (2022-08-13)
 
 
