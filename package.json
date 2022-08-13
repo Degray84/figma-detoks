@@ -26,8 +26,6 @@
   ],
   "scripts": {
     "build": "node src",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
     "release": "npx semantic-release"
   },
   "devDependencies": {
