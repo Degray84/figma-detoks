@@ -38,5 +38,8 @@
     "prettier": "^2.7.1",
     "semantic-release": "^19.0.3",
     "style-dictionary": "^3.7.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
