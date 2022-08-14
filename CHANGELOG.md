@@ -1,3 +1,21 @@
+## [1.0.10](https://github.com/Degray84/figma-detoks/compare/v1.0.9...v1.0.10) (2022-08-14)
+
+
+### Bug Fixes
+
+* remove :active ([ee130f2](https://github.com/Degray84/figma-detoks/commit/ee130f2dd1ff5c32b834c5dcb7d38299355830dd))
+* remove :hover ([0ef4aef](https://github.com/Degray84/figma-detoks/commit/0ef4aef0e6003570225cd01fd9ad5f15c61cb8a1))
+* remove :hover ([14dcbf5](https://github.com/Degray84/figma-detoks/commit/14dcbf5766cbd39dcf3c358b74de76ea6412f546))
+* remove :hover to -hover ([f47f916](https://github.com/Degray84/figma-detoks/commit/f47f916074b18b345eb460a61cca646e979d5fde))
+* remove extra fields ([45b685a](https://github.com/Degray84/figma-detoks/commit/45b685a7e15029c621b3cf79c9837a5473a302d1))
+* tokens update ([4f71877](https://github.com/Degray84/figma-detoks/commit/4f718779f80442a302dc09f38ae939542f4a09c7))
+* update ([ebe0559](https://github.com/Degray84/figma-detoks/commit/ebe0559b8730980039aeca05b75b1e5e893cc12e))
+* update ([9c16a07](https://github.com/Degray84/figma-detoks/commit/9c16a0700f3ebb456df09ae7cded0dff50a7d444))
+* update ([0d9ed35](https://github.com/Degray84/figma-detoks/commit/0d9ed35f66c5eaa7cc02078d17930a2ca5bb7341))
+* update ([44ab4f1](https://github.com/Degray84/figma-detoks/commit/44ab4f1f88fbec8bd73f0a62b84aa9d57f6b968c))
+* update tokens ([67873bb](https://github.com/Degray84/figma-detoks/commit/67873bb025383d539debc9181dc53a9b9e89fe00))
+* update tokens ([2c504c8](https://github.com/Degray84/figma-detoks/commit/2c504c81809b43b0e5f788efa0fed5a6b238e0b9))
+
 ## [1.0.9](https://github.com/Degray84/figma-detoks/compare/v1.0.8...v1.0.9) (2022-08-13)
 
 

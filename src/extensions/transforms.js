@@ -10,7 +10,7 @@ import { sizes } from "../constants/categories.js";
 // Attribute: создание атрибута темы и удаление ее из массива path
 StyleDictionary.registerTransform({
   type: "attribute",
-  name: "plx/attribute/split",
+  name: "skr/attribute/split",
   transformer: function (token) {
     const { path, type } = token;
     const themes = ["global", "light", "dark"];
@@ -35,7 +35,7 @@ StyleDictionary.registerTransform({
 // *Название темы сохраняется для дальнейшей генерации имен переменных
 StyleDictionary.registerTransform({
   type: "attribute",
-  name: "plx/attribute/common",
+  name: "skr/attribute/common",
   transformer: function (token) {
     const { path, type } = token;
     const themes = ["global", "light", "dark"];
@@ -60,7 +60,7 @@ StyleDictionary.registerTransform({
 StyleDictionary.registerTransform({
   type: `value`,
   transitive: true,
-  name: `plx/gradient`,
+  name: `skr/gradient`,
   matcher: ({ type }) => type == "color",
   transformer: (token) => {
     checkGradientType(token);
@@ -73,7 +73,7 @@ StyleDictionary.registerTransform({
 StyleDictionary.registerTransform({
   type: `value`,
   transitive: true,
-  name: `plx/opacity`,
+  name: `skr/opacity`,
   matcher: ({ type }) => type == "opacity",
   transformer: ({ value }) =>
     value[value.length] === "%" ? value : +value.slice(0, -1) / 100,
@@ -83,7 +83,7 @@ StyleDictionary.registerTransform({
 StyleDictionary.registerTransform({
   type: `value`,
   transitive: true,
-  name: `plx/typography`,
+  name: `skr/typography`,
   matcher: ({ type }) => type == "typography",
   transformer: ({ value }) =>
     `${weights[value.fontWeight]} ${value.fontSize}/${value.lineHeight} ${
@@ -95,7 +95,7 @@ StyleDictionary.registerTransform({
 StyleDictionary.registerTransform({
   type: `value`,
   transitive: true,
-  name: `plx/boxShadow`,
+  name: `skr/boxShadow`,
   matcher: ({ type }) => type === "boxShadow",
   transformer: ({ value }) => {
     const shadowString = ({ x, y, blur, spread, color }) =>

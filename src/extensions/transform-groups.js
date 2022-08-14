@@ -5,17 +5,17 @@ import StyleDictionary from "style-dictionary";
 
 const COMMON = [
   "size/px",
-  "plx/gradient",
-  "plx/boxShadow",
-  "plx/typography",
-  "plx/opacity",
+  "skr/gradient",
+  "skr/boxShadow",
+  "skr/typography",
+  "skr/opacity",
 ];
 
 // Группа трансформаций для CSS токенов
 StyleDictionary.registerTransformGroup({
-  name: "plx/css",
+  name: "skr/css",
   transforms: [
-    "plx/attribute/split",
+    "skr/attribute/split",
     "name/cti/kebab",
     "time/seconds",
     "content/icon",
@@ -26,9 +26,9 @@ StyleDictionary.registerTransformGroup({
 
 // Группа трансформаций для JS токенов
 StyleDictionary.registerTransformGroup({
-  name: "plx/js",
+  name: "skr/js",
   transforms: [
-    "plx/attribute/common",
+    "skr/attribute/common",
     "name/cti/pascal",
     "color/hex",
     ...COMMON,
@@ -37,9 +37,9 @@ StyleDictionary.registerTransformGroup({
 
 // Группа трансформаций для SCSS токенов
 StyleDictionary.registerTransformGroup({
-  name: "plx/scss",
+  name: "skr/scss",
   transforms: [
-    "plx/attribute/common",
+    "skr/attribute/common",
     "name/cti/kebab",
     "time/seconds",
     "content/icon",

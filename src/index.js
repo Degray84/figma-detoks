@@ -21,14 +21,14 @@ const myStyleDictionary = StyleDictionary.extend({
   source: [PATH],
   platforms: {
     css: {
-      transformGroup: "plx/css",
-      prefix: "plx",
+      transformGroup: "skr/css",
+      prefix: "skr",
       files: [
         ...StyleDictionary.getFilters("css", "css", "css/variables"),
         ...StyleDictionary.getParts("css", "css", "css/variables"),
         {
           destination: "docs/props/css.md",
-          format: "plx/docs/split",
+          format: "skr/docs/split",
           options: {
             showFileHeader: false,
           },
@@ -36,7 +36,7 @@ const myStyleDictionary = StyleDictionary.extend({
       ],
     },
     js: {
-      transformGroup: "plx/js",
+      transformGroup: "skr/js",
       files: [
         ...StyleDictionary.getFilters("js", "js", "javascript/es6"),
         ...StyleDictionary.getFilters(
@@ -52,7 +52,7 @@ const myStyleDictionary = StyleDictionary.extend({
         ),
         {
           destination: "docs/props/js.md",
-          format: "plx/docs",
+          format: "skr/docs",
           options: {
             showFileHeader: false,
           },
@@ -60,13 +60,13 @@ const myStyleDictionary = StyleDictionary.extend({
       ],
     },
     scss: {
-      transformGroup: "plx/scss",
+      transformGroup: "skr/scss",
       files: [
         ...StyleDictionary.getFilters("scss", "scss", "scss/variables"),
         ...StyleDictionary.getParts("scss", "scss", "scss/variables"),
         {
           destination: "docs/props/scss.md",
-          format: "plx/docs",
+          format: "skr/docs",
           options: {
             showFileHeader: false,
           },

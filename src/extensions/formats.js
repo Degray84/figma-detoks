@@ -10,7 +10,7 @@ import _ from "lodash";
 
 // Формат вывода документации с разделением столбцов на глобальные и тематические
 StyleDictionary.registerFormat({
-  name: "plx/docs",
+  name: "skr/docs",
   formatter: function (token) {
     const { allTokens } = token;
     const other = {};
@@ -28,7 +28,7 @@ StyleDictionary.registerFormat({
 
 // Формат вывода документации без разделения столбцов
 StyleDictionary.registerFormat({
-  name: "plx/docs/split",
+  name: "skr/docs/split",
   formatter: function (token) {
     const { allTokens } = token;
     const dependent = {};
