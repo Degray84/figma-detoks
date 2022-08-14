@@ -3,6 +3,7 @@
 /lib/
 /dist/
 .idea/*
+.vuepress
 
 .DS_Store
 coverage
