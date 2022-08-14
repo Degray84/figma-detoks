@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.49">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="/color-wheel.png"><title>Дизайн токены</title><meta name="description" content="Пример">
+    <link rel="modulepreload" href="/assets/app.528f1d10.js"><link rel="modulepreload" href="/assets/404.html.af2c9e53.js"><link rel="modulepreload" href="/assets/404.html.c56216e0.js"><link rel="prefetch" href="/assets/index.html.2e94559b.js"><link rel="prefetch" href="/assets/css.html.197e9ac3.js"><link rel="prefetch" href="/assets/js.html.70b801eb.js"><link rel="prefetch" href="/assets/scss.html.57680aaa.js"><link rel="prefetch" href="/assets/index.html.6659e266.js"><link rel="prefetch" href="/assets/css.html.0a59f93b.js"><link rel="prefetch" href="/assets/js.html.d851a9d8.js"><link rel="prefetch" href="/assets/scss.html.651bef2a.js"><link rel="prefetch" href="/assets/404.ec1e2e69.js"><link rel="prefetch" href="/assets/Layout.7e840be7.js">
+    <link rel="stylesheet" href="/assets/style.f4d22aab.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>How did we get here?</blockquote><a href="/" class="">Вернуться домой</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.528f1d10.js" defer></script>
+  </body>
+</html>
