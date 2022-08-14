@@ -1,3 +1,12 @@
+## [1.0.11](https://github.com/Degray84/figma-detoks/compare/v1.0.10...v1.0.11) (2022-08-14)
+
+
+### Bug Fixes
+
+* example ([63aa1ab](https://github.com/Degray84/figma-detoks/commit/63aa1abd0406e88a8e7b4a30f251462598e29938))
+* update token ([8ca6526](https://github.com/Degray84/figma-detoks/commit/8ca652657eadd0797cd595d9c5cecf875d22b91c))
+* update tokens ([836d901](https://github.com/Degray84/figma-detoks/commit/836d901b99708292f60c2de5bd02aba3b6fb90f1))
+
 ## [1.0.10](https://github.com/Degray84/figma-detoks/compare/v1.0.9...v1.0.10) (2022-08-14)
 
 
