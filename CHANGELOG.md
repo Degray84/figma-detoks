@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Degray84/figma-detoks/compare/v1.0.11...v1.1.0) (2022-08-14)
+
+
+### Features
+
+* docs example ([85af055](https://github.com/Degray84/figma-detoks/commit/85af05544e4d41aec20c6ca16c269018bc7cae87))
+
 ## [1.0.11](https://github.com/Degray84/figma-detoks/compare/v1.0.10...v1.0.11) (2022-08-14)
 
 
