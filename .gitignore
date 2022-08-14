@@ -1,9 +1,12 @@
 /node_modules/
 /build/
 /lib/
-/dist/
+
 .idea/*
-.vuepress
+dist
+.temp
+.cache
+dist
 
 .DS_Store
 coverage
