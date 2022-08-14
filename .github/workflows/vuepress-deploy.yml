@@ -16,6 +16,6 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
           TARGET_REPO: Degray84/figma-detoks
-          TARGET_BRANCH: main
+          TARGET_BRANCH: beta
           BUILD_SCRIPT: npm run docs:build
           BUILD_DIR: docs/.vuepress/dist
