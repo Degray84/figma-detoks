@@ -1,6 +1,7 @@
 {
   "name": "@skarmind/figma-detoks",
   "version": "1.1.0",
+  "type": "module",
   "author": {
     "name": "Sergei Katser",
     "email": "degray848484@gmail.com"
