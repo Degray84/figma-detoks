@@ -1,3 +1,25 @@
+# [1.2.0](https://github.com/Degray84/figma-detoks/compare/v1.1.0...v1.2.0) (2022-08-27)
+
+
+### Bug Fixes
+
+* add type module ([7e663b6](https://github.com/Degray84/figma-detoks/commit/7e663b6cf2ccb0dae5d1c3e394909e24822476c3))
+* change workflow ([ab40371](https://github.com/Degray84/figma-detoks/commit/ab40371ad7ef74929d6840a8d34870a55b666e82))
+* change workflow ([046160f](https://github.com/Degray84/figma-detoks/commit/046160fbe83a7f674e2389e189e5f2a651578339))
+* change workflow ([51aa57a](https://github.com/Degray84/figma-detoks/commit/51aa57a40016a24d50ac50e5270d7bcb1264e408))
+* change workflow ([9073cab](https://github.com/Degray84/figma-detoks/commit/9073cabb9c011035f84fec000f66f84ab258e9d0))
+* change workflow ([d9c9e29](https://github.com/Degray84/figma-detoks/commit/d9c9e293be5b033ff1d34257a42fb17b5c27ba65))
+* change workflow ([3ac0745](https://github.com/Degray84/figma-detoks/commit/3ac0745261bfc89f7386dac602bd0647220f3480))
+* example vuepress ([c06bf49](https://github.com/Degray84/figma-detoks/commit/c06bf49b7ce60cf9b60c5bb677014d36aa31e18b))
+* update tokens ([e0fed40](https://github.com/Degray84/figma-detoks/commit/e0fed40f79ec92d29e29454fdb234023c15c7de3))
+* update tokens ([db299fd](https://github.com/Degray84/figma-detoks/commit/db299fd9d09f8fd32ab2536dd83209d7be66854a))
+* update tokens ([1c72a74](https://github.com/Degray84/figma-detoks/commit/1c72a74af99aaeeff459705469156af9b6621c3c))
+
+
+### Features
+
+* vuepress updated ([5f97bbf](https://github.com/Degray84/figma-detoks/commit/5f97bbfc1c1ccd272fe05c7797868995c9450469))
+
 # [1.1.0](https://github.com/Degray84/figma-detoks/compare/v1.0.11...v1.1.0) (2022-08-14)
 
 
