@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/Degray84/figma-detoks/compare/v1.2.0...v1.3.0) (2022-08-27)
+
+
+### Bug Fixes
+
+* add npm install ([702af72](https://github.com/Degray84/figma-detoks/commit/702af72b7239e10fe41b34aeaea18dd350dea1ae))
+
+
+### Features
+
+* add readme ([2b1f25a](https://github.com/Degray84/figma-detoks/commit/2b1f25a8f91c7a16619b6e2991b667b2032daba7))
+
 # [1.2.0](https://github.com/Degray84/figma-detoks/compare/v1.1.0...v1.2.0) (2022-08-27)
 
 
